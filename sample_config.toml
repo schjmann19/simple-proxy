@@ -1,0 +1,12 @@
+# Proxy configuration file
+# Target server to proxy to
+target = "http://localhost:8000"
+
+# Port to listen on
+port = 8080
+
+# List of folders to block access to
+blocked_folders = [
+    "private",
+    "secret"
+]
