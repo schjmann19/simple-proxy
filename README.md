@@ -1,6 +1,6 @@
 # POST & GET only HTTP proxy
 
-this is a simple HTTO proxy made to properly display UTF-8 and block given folders based on a config file
+this is a simple HTTP proxy made to properly display UTF-8 and block given folders based on a config file
 
 it was not made by me, but the author prefers that I have it in here, and handle any issues.
 
